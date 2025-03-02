@@ -1,0 +1,36 @@
+Pass:
+
+- CA: "19yV8O5v0EnX3fNUWrOb"
+
+- DB: "Y9Aqz2DPGRSi0q1yEuxs"
+
+- User: "VyXeCrCxpEQDInzt5yAf"
+    HASH: $2a$10$eMatFjbBuBaP7Tpw.ACaYOKqANYL0A/WESyeeDwFrMEvSaR75BvsC
+
+- Manufacturer: "DEdu8eN8wTLuvbIhOHwQ"
+    HASH: $2a$10$Hxitjy9CzEbXMz/7WrEeSuvfAdax4FQCZryCyuctE2/BZCDMHC5Hy
+
+- Mechanic: "CXhbHGdLOZHPBvJDXgBy"
+    HASH: $2a$10$MApF.Di3jb74qabzyKwBg.kjuvepQ7AA.5gr0co20bPnuSn35ZWXS
+
+- Server: "4hJeQcAmJntQ6iiZOS9S"
+    HASH: $2a$10$BdPALghrCv4ZEs8/wK3Pke2r9ZvPjU5CULjvPO.puutr4WwKLdov6
+
+Car Key Password:
+
+- CAR1: "05ZtQK4R'^h72fY>EDt("
+
+Challenge Password:
+
+- CA: "CASIRS2425"
+
+- DB: "DBSIRS2425"
+
+- User: "USERSIRS2425"
+
+- Manufacturer: "MANUFACTURERSIRS2425"
+
+- Mechanic: "MECHANICSIRS2425"
+
+- Server: "SERVERSIRS2425"
+
